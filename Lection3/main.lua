@@ -1,6 +1,6 @@
 local widget = require("widget")
 
--- кликер
+--кликер
 -- local x = 0
 -- local score = display.newText(x,170,0,"Helvetica",100)
 
